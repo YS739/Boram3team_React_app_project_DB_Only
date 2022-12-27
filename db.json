@@ -1,23 +1,9 @@
 {
   "users": [
-    {
-      "id": "994a5401-4dfc-4446-8196-9fa854d7cc85",
-      "userDi": "winter",
-      "userPw": "12345678z",
-      "userName": "dd"
-    }
+
   ],
   "posts": [
-    {
-      "id": "c91c08f4-ffe3-40e8-b056-9657ec492c11",
-      "user": "994a5401-4dfc-4446-8196-9fa854d7cc85",
-      "title": "dfdfd",
-      "userName": "dd",
-      "categoryA": "dfdf",
-      "categoryB": "df",
-      "date": "2022-12-27T10:36:14.055Z",
-      "like": []
-    }
+ 
   ],
   "comments": []
 }
