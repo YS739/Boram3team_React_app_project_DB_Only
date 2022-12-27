@@ -7,6 +7,7 @@
       "title": "냉장고 살때",
       "categoryA": "엘지",
       "categoryB": "삼성",
+      "userName": "춘삼",
       "date": "2022-12-27T02:40:06.535Z",
       "like": []
     },
@@ -16,6 +17,7 @@
       "title": "엄마와 아내가 물에 빠졌다 누구를 먼저 구할건가?",
       "categoryA": "엄마",
       "categoryB": "아내",
+      "userName": "초록이",
       "date": "2022-12-27T02:40:51.573Z",
       "like": []
     },
@@ -25,6 +27,7 @@
       "title": "도박중독자 아내에게 \"한번만 더 도박을 하면 이혼하겠다\" 라고 선언한뒤 아내가 도박에서 10억을 따왔다.",
       "categoryA": "이혼한다",
       "categoryB": "눈감아준다",
+      "userName": "노빠꾸",
       "date": "2022-12-27T02:42:23.404Z",
       "like": ["92fbbcc5-b694-41f9-9e56-e294d27e613b"]
     },
@@ -34,6 +37,7 @@
       "title": "콜라 vs 사이다",
       "categoryA": "콜라",
       "categoryB": "사이다",
+      "userName": "야옹이",
       "date": "2022-12-27T02:43:22.181Z",
       "like": []
     },
@@ -43,6 +47,7 @@
       "title": "아이폰 vs 갤럭시 ",
       "categoryA": "아이폰",
       "categoryB": "갤럭시 ",
+      "userName": "봄",
       "date": "2022-12-27T02:43:52.173Z",
       "like": []
     }
@@ -53,6 +58,7 @@
       "postNumber": "8b229530-07a1-40b7-b126-cc392c832b3d",
       "user": "92fbbcc5-b694-41f9-9e56-e294d27e613b",
       "comment": "제로콜라 아니면 사이다가 진리임",
+      "userName": "심바",
       "isA": "false",
       "date": "2022-12-27T05:22:56.458Z"
     },
@@ -61,6 +67,7 @@
       "postNumber": "32a32946-0c6c-4bc9-b1dd-d97962f8aaba",
       "user": "92fbbcc5-b694-41f9-9e56-e294d27e613b",
       "comment": "또 도박할거임",
+      "userName": "파란",
       "isA": "true",
       "date": "2022-12-27T05:51:25.594Z"
     },
@@ -69,6 +76,7 @@
       "postNumber": "32a32946-0c6c-4bc9-b1dd-d97962f8aaba",
       "user": "92fbbcc5-b694-41f9-9e56-e294d27e613",
       "comment": "도박으로 딴 돈 도박으로 잃을거임",
+      "userName": "불주먹",
       "isA": "true",
       "date": "2022-12-27T05:51:25.594Z"
     },
@@ -78,6 +86,7 @@
       "user": "92fbbcc5-b694-41f9-9e56-e294d27e613",
       "comment": "도박하는 사람을 왜 만남?",
       "isA": "true",
+      "userName": "물주먹",
       "date": "2022-12-27T05:51:25.594Z"
     },
     {
@@ -85,6 +94,7 @@
       "postNumber": "32a32946-0c6c-4bc9-b1dd-d97962f8aaba",
       "user": "92fbbcc5-b694-41f9-9e56-e294d27e613",
       "comment": "10억인데?",
+      "userName": "만두",
       "isA": "false",
       "date": "2022-12-27T05:51:25.594Z"
     }
